@@ -12,7 +12,7 @@ component LMV321IDBVR from Opamp:
 
     # Connect signals
     inverting ~ pin 3
-    noninverting ~ pin 1
+    non_inverting ~ pin 1
     output ~ pin 4
 
 module Test:
